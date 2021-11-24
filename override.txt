@@ -2,7 +2,8 @@ mcl_core:sand all _sand.tga
 mcl_core:diorite all _diorite.tga
 mcl_core:andesite all _andesite.tga
 mcl_core:granite all _granite.tga
-
+mcl_core:obsidian all _obsidian.tga
+mcl_portals:portal all portalframe4.tga
 
 
 
