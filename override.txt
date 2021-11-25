@@ -1,17 +1,20 @@
 # to do:
-mcl_doors:wooden_door_t_1 front,back
-mcl_doors:wooden_door_t_2 front,back
-mcl_doors:wooden_door_b_1 front,back
-mcl_doors:wooden_door_b_2 front,back
+# mcl_doors:wooden_door_t_1 front,back
+# mcl_doors:wooden_door_t_2 front,back
+# mcl_doors:wooden_door_b_1 front,back
+# mcl_doors:wooden_door_b_2 front,back
 
-mcl_doors:wooden_door_t_1 top,bottom,left,right
-mcl_doors:wooden_door_t_2 top,bottom,left,right
-mcl_doors:wooden_door_b_1 top,bottom,left,right
-mcl_doors:wooden_door_b_2 top,bottom,left,right
+# mcl_doors:wooden_door_t_1 top,bottom,left,right
+# mcl_doors:wooden_door_t_2 top,bottom,left,right
+# mcl_doors:wooden_door_b_1 top,bottom,left,right
+# mcl_doors:wooden_door_b_2 top,bottom,left,right
 
-fences, rails, pots, flowers, gravel, cobble, cobble wall
-brick wall, stone brick, stone brick wall, more trees, path
-farmland, water, lava, smooth stone, smooth stone slab
+# mcl_stairs:stair_wood_inner all _default_wood.tga
+# mcl_stairs:stair_wood_outer all _default_wood.tga
+
+# fences, rails, pots, flowers, gravel, cobble, cobble wall
+# brick wall, stone brick, stone brick wall, more trees, path
+# farmland, water, lava, smooth stone, smooth stone slab
 
 
 
