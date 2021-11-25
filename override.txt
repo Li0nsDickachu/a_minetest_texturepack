@@ -17,7 +17,15 @@
 # farmland, water, lava, smooth stone, smooth stone slab, trap door
 
 
+mcl_farming:melon top,bottom _melon_top.tga
+mcl_farming:melon sides _melon_sides.tga
+mcl_farming:melon_item inventory,wielditem _melon_slice.tga
+mcl_potions:speckled_melon inventory,wielditem _melon_slice_golden.tga
+mcl_farming:melon_seeds inventory,wielditem _melon_seeds.tga
 
+mcl_core:coarse_dirt all _coarse_dirt.tga
+
+mcl_flowers:waterlily top,bottom,inventory,wielditem _waterlily.tga
 
 mcl_torches:torch all _torch.tga
 # to do: fix inventory and wielding texture
@@ -71,11 +79,11 @@ mcl_core:stone_with_redstone all _redstone_ore.tga
 mcl_core:stone_with_redstone_lit all _redstone_ore.tga
 mcl_core:stone_with_diamond all _diamond_ore.tga
 
-mcl_core:apple all _default_apple.tga
+mcl_core:apple all default_apple.tga
 mcl_core:dirt all default_dirt.tga
 mcl_core:dirt_with_grass top mcl_core_grass_block_top.tga
 mcl_flowers:tallgrass all mcl_flowers_tallgrass.tga
-mcl_core:apple_gold all _mcl_core_apple_golden.tga
+mcl_core:apple_gold all mcl_core_apple_golden.tga
 mcl_minecarts:rail all _default_rail.tga
 
 
