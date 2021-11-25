@@ -21,9 +21,15 @@ mcl_core:redsandstone sides _redsandstone_side.tga
 mcl_core:redsandstone bottom _redsandstone_bottom.tga
 
 
-
+mcl_core:tree sides default_tree.tga
 mcl_core:tree top,bottom _default_tree_top.tga
 mcl_core:wood all _default_wood.tga
+mcl_stairs:slab_wood_top all _default_wood.tga
+mcl_stairs:slab_wood_double all _default_wood.tga
+mcl_stairs:slab_wood all _default_wood.tga
+mcl_stairs:slab_wood_top all _default_wood.tga
+mcl_stairs:stair_wood all _default_wood.tga
+
 
 mcl_core:leaves all _default_leaves.png
 
@@ -44,7 +50,6 @@ mcl_core:stone_with_redstone_lit all _redstone_ore.tga
 mcl_core:stone_with_diamond all _diamond_ore.tga
 
 mcl_core:apple all _default_apple.tga
-mcl_core:tree sides default_tree.tga
 mcl_core:dirt all default_dirt.tga
 mcl_core:dirt_with_grass top mcl_core_grass_block_top.tga
 mcl_flowers:tallgrass all mcl_flowers_tallgrass.tga
