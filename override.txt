@@ -14,7 +14,7 @@
 
 # fences, rails, pots, flowers, gravel, cobble, cobble wall
 # brick wall, stone brick, stone brick wall, more trees, path
-# farmland, water, lava, smooth stone, smooth stone slab
+# farmland, water, lava, smooth stone, smooth stone slab, trap door
 
 
 
