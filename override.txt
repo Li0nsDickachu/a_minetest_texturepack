@@ -5,6 +5,16 @@ mcl_core:granite all _granite.tga
 mcl_core:obsidian all _obsidian.tga
 mcl_portals:portal all portalframe4.tga
 
+mcl_core:redsand all _red_sand.tga
+
+mcl_core:sandstone top _sandstone_top.tga
+mcl_core:sandstone sides _sandstone_side.tga
+mcl_core:sandstone bottom _sandstone_bottom.tga
+
+mcl_core:redsandstone top _redsandstone_top.tga
+mcl_core:redsandstone sides _redsandstone_side.tga
+mcl_core:redsandstone bottom _redsandstone_bottom.tga
+
 
 
 mcl_core:tree top,bottom _default_tree_top.tga
