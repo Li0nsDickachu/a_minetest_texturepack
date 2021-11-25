@@ -1,3 +1,18 @@
+# to do:
+mcl_doors:wooden_door_t_1 front,back
+mcl_doors:wooden_door_t_2 front,back
+mcl_doors:wooden_door_b_1 front,back
+mcl_doors:wooden_door_b_2 front,back
+
+mcl_doors:wooden_door_t_1 top,bottom,left,right
+mcl_doors:wooden_door_t_2 top,bottom,left,right
+mcl_doors:wooden_door_b_1 top,bottom,left,right
+mcl_doors:wooden_door_b_2 top,bottom,left,right
+
+fences, rails, pots, flowers, gravel, cobble, cobble wall, brick wall,
+
+
+
 
 mcl_torches:torch all _torch.tga
 # to do: fix inventory and wielding texture
@@ -29,6 +44,8 @@ mcl_stairs:slab_wood_double all _default_wood.tga
 mcl_stairs:slab_wood all _default_wood.tga
 mcl_stairs:slab_wood_top all _default_wood.tga
 mcl_stairs:stair_wood all _default_wood.tga
+mesecons_pressureplates:pressure_plate_wood_off all _default_wood.tga
+mesecons_pressureplates:pressure_plate_wood_on all _default_wood.tga
 
 
 mcl_core:leaves all _default_leaves.png
