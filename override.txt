@@ -9,7 +9,9 @@ mcl_doors:wooden_door_t_2 top,bottom,left,right
 mcl_doors:wooden_door_b_1 top,bottom,left,right
 mcl_doors:wooden_door_b_2 top,bottom,left,right
 
-fences, rails, pots, flowers, gravel, cobble, cobble wall, brick wall,
+fences, rails, pots, flowers, gravel, cobble, cobble wall
+brick wall, stone brick, stone brick wall, more trees, path
+farmland, water, lava, smooth stone, smooth stone slab
 
 
 
