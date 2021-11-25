@@ -14,7 +14,8 @@
 
 # fences, rails, pots, flowers, gravel, cobble, cobble wall
 # brick wall, stone brick, stone brick wall, more trees, path
-# farmland, water, lava, smooth stone, smooth stone slab, trap door
+# farmland, water, lava, smooth stone, smooth stone slab
+# trap door, stripped wood
 
 
 mcl_farming:melon top,bottom _melon_top.tga
@@ -31,19 +32,20 @@ mcl_torches:torch all _torch.tga
 # to do: fix inventory and wielding texture
 mcl_torches:torch_wall all _torch.tga
 
-mcl_core:sand all _sand.tga
 mcl_core:diorite all _diorite.tga
 mcl_core:andesite all _andesite.tga
 mcl_core:granite all _granite.tga
+mcl_core:gravel all _gravel.tga
+
 mcl_core:obsidian all _obsidian.tga
 mcl_portals:portal all portalframe4.tga
 
-mcl_core:redsand all _red_sand.tga
-
+mcl_core:sand all _sand.tga
 mcl_core:sandstone top _sandstone_top.tga
 mcl_core:sandstone sides _sandstone_side.tga
 mcl_core:sandstone bottom _sandstone_bottom.tga
 
+mcl_core:redsand all _red_sand.tga
 mcl_core:redsandstone top _redsandstone_top.tga
 mcl_core:redsandstone sides _redsandstone_side.tga
 mcl_core:redsandstone bottom _redsandstone_bottom.tga
@@ -68,6 +70,18 @@ mcl_core:dirt_with_grass top _grass_top.tga
 mcl_tnt:tnt sides _tnt_side.tga
 mcl_tnt:tnt top _tnt_top.tga
 mcl_tnt:tnt bottom _tnt_bottom.tga
+
+
+
+
+mcl_core:cobble all _cobble.tga
+mcl_stairs:slab_cobble all _cobble.tga
+mcl_stairs:slab_cobble_double all _cobble.tga
+mcl_stairs:slab_cobble_top all _cobble.tga
+mcl_stairs:stair_cobble all _cobble.tga
+mcl_stairs:stair_cobble_inner all _cobble.tga
+mcl_stairs:stair_cobble_outer all _cobble.tga
+
 
 mcl_core:stone all _stone.tga
 mcl_core:stone_with_coal all _coal_ore.tga
