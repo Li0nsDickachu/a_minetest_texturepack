@@ -1,3 +1,8 @@
+
+mcl_torches:torch all _torch.tga
+# to do: fix inventory and wielding texture
+mcl_torches:torch_wall all _torch.tga
+
 mcl_core:sand all _sand.tga
 mcl_core:diorite all _diorite.tga
 mcl_core:andesite all _andesite.tga
