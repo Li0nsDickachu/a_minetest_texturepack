@@ -18,6 +18,17 @@
 # trap door, stripped wood
 
 
+
+mcl_core:brick_block all _brick_wall.tga
+
+mcl_stairs:slab_stonebrick all _stone_brick_wall.tga
+mcl_stairs:slab_stonebrick_top all _stone_brick_wall.tga
+mcl_stairs:slab_stonebrick_double all _stone_brick_wall.tga
+
+mcl_stairs:stair_stonebrick all _stone_brick_wall.tga
+# mcl_stairs:stair_stonebrick_outer all
+# mcl_stairs:stair_stonebrick_inner all
+
 mcl_farming:melon top,bottom _melon_top.tga
 mcl_farming:melon sides _melon_sides.tga
 mcl_farming:melon_item inventory,wielditem _melon_slice.tga
