@@ -1,16 +1,4 @@
 # to do:
-# mcl_doors:wooden_door_t_1 front,back
-# mcl_doors:wooden_door_t_2 front,back
-# mcl_doors:wooden_door_b_1 front,back
-# mcl_doors:wooden_door_b_2 front,back
-
-# mcl_doors:wooden_door_t_1 top,bottom,left,right
-# mcl_doors:wooden_door_t_2 top,bottom,left,right
-# mcl_doors:wooden_door_b_1 top,bottom,left,right
-# mcl_doors:wooden_door_b_2 top,bottom,left,right
-
-# mcl_stairs:stair_wood_inner all _default_wood.tga
-# mcl_stairs:stair_wood_outer all _default_wood.tga
 
 # fences, rails, pots, flowers, gravel, cobble, cobble wall
 # brick wall, stone brick, stone brick wall, more trees, path
@@ -19,7 +7,15 @@
 
 
 
+mcl_core:reeds all _reeds.tga
+
 mcl_core:brick_block all _brick_wall.tga
+mcl_stairs:slab_brick_block all _brick_wall.tga
+mcl_stairs:slab_brick_block_double all _brick_wall.tga
+mcl_stairs:slab_brick_block_top all _brick_wall.tga
+mcl_stairs:stair_brick_block all _brick_wall.tga
+mcl_stairs:stair_brick_block all _brick_wall.tga
+mcl_stairs:stair_brick_block all _brick_wall.tga
 
 mcl_stairs:slab_stonebrick all _stone_brick_wall.tga
 mcl_stairs:slab_stonebrick_top all _stone_brick_wall.tga
@@ -61,7 +57,7 @@ mcl_core:redsandstone top _redsandstone_top.tga
 mcl_core:redsandstone sides _redsandstone_side.tga
 mcl_core:redsandstone bottom _redsandstone_bottom.tga
 
-
+mcl_core:sapling all _oak_sapling.tga
 mcl_core:tree sides default_tree.tga
 mcl_core:tree top,bottom _default_tree_top.tga
 mcl_core:wood all _default_wood.tga
@@ -70,8 +66,29 @@ mcl_stairs:slab_wood_double all _default_wood.tga
 mcl_stairs:slab_wood all _default_wood.tga
 mcl_stairs:slab_wood_top all _default_wood.tga
 mcl_stairs:stair_wood all _default_wood.tga
+mcl_stairs:stair_wood_inner sides _default_wood.tga
+mcl_stairs:stair_wood_outer sides _default_wood.tga
+mcl_stairs:stair_wood_inner top _oak_stair_inner_top.tga
+mcl_stairs:stair_wood_outer top _oak_stair_outer_top.tga
+mcl_stairs:stair_wood_inner bottom _oak_stair_inner_bottom.tga
+mcl_stairs:stair_wood_outer bottom _oak_stair_outer_bottom.tga
+
 mesecons_pressureplates:pressure_plate_wood_off all _default_wood.tga
 mesecons_pressureplates:pressure_plate_wood_on all _default_wood.tga
+mesecons_button:button_wood_off all _default_wood.tga
+mesecons_button:button_wood_on all _default_wood.tga
+
+mcl_crafting_table:crafting_table top _crafting_table_top.tga
+mcl_crafting_table:crafting_table sides _crafting_table_sides.tga
+mcl_crafting_table:crafting_table bottom _crafting_table_bottom.tga
+
+mcl_doors:trapdoor all _oak_trapdoor.tga
+mcl_doors:trapdoor_open all _oak_trapdoor.tga
+
+mcl_doors:wooden_door_t_1 all _oak_door_a.tga
+mcl_doors:wooden_door_t_2 all _oak_door_a.tga
+mcl_doors:wooden_door_b_1 all _oak_door_b.tga
+mcl_doors:wooden_door_b_2 all _oak_door_b.tga
 
 
 mcl_core:leaves all _default_leaves.png
@@ -103,6 +120,25 @@ mcl_core:stone_with_gold all _gold_ore.tga
 mcl_core:stone_with_redstone all _redstone_ore.tga
 mcl_core:stone_with_redstone_lit all _redstone_ore.tga
 mcl_core:stone_with_diamond all _diamond_ore.tga
+
+mcl_core:stone_smooth all _smoothstone.tga
+mcl_core:diorite_smooth all _smooth_diorite.tga
+mcl_core:andesite_smooth all _smooth_andesite.tga
+mcl_core:granite_smooth all _smooth_granite.tga
+
+mesecons_pressureplates:pressure_plate_stone_off all _stone.tga
+mesecons_pressureplates:pressure_plate_stone_on all _stone.tga
+mesecons_button:button_stone_off all _stone.tga
+mesecons_button:button_stone_on all _stone.tga
+
+mcl_stairs:slab_stone_rough all _stone.tga
+mcl_stairs:slab_stone_rough_double all _stone.tga
+mcl_stairs:slab_stone_rough_top all _stone.tga
+mcl_stairs:stair_stone_rough all _stone.tga
+mcl_stairs:stair_stone_rough_inner all _stone.tga
+mcl_stairs:stair_stone_rough_outer all _stone.tga
+
+
 
 mcl_core:apple all default_apple.tga
 mcl_core:dirt all default_dirt.tga
